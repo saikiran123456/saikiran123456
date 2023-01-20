@@ -41,5 +41,4 @@
 
 <p align="center">𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒈𝒆𝒕 𝒊𝒏 𝒕𝒐𝒖𝒄𝒉:</p>
 
-<p align="center" href="https://mail.google.com/mail/?view=cm&fs=1&to=mail.saikirandasari41@gmail.com"> 𝐸𝑚𝑎𝑖𝑙: <a href=mailto:<Saikiran>saikirandasari41@gmail.com</a> <br> 𝐿𝑖𝑛𝑘𝑒𝑑𝐼𝑛: www.linkedin.com/in/saikiran-datascience/ <br> <button onclick="location.href = 'www.linkedin.com/in/saikiran-datascience/';" id="myButton" class="float-left submit-button" >'www.linkedin.com/in/saikiran-datascience/'</button>
-</p>
+<p align="center" href="https://mail.google.com/mail/?view=cm&fs=1&to=mail.saikirandasari41@gmail.com"> 𝐸𝑚𝑎𝑖𝑙: <a href=mailto:<Saikiran>saikirandasari41@gmail.com</a> <br> 𝐿𝑖𝑛𝑘𝑒𝑑𝐼𝑛: www.linkedin.com/in/saikiran-datascience/ <br> My Medium Blogs on Data Science: https://saikirandasari41.medium.com/ </p>
