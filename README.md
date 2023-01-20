@@ -41,4 +41,4 @@
 
 <p align="center">𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒈𝒆𝒕 𝒊𝒏 𝒕𝒐𝒖𝒄𝒉:</p>
 
-<p align="center" href="https://mail.google.com/mail/?view=cm&fs=1&to=mail.saikirandasari41@gmail.com"> 𝐸𝑚𝑎𝑖𝑙: <a href="𝑚𝑎𝑖𝑙to: saikirandasari41@gmail.com">Click here to send me an email!!!</a> <br> 𝐿𝑖𝑛𝑘𝑒𝑑𝐼𝑛: www.linkedin.com/in/saikiran-datascience/</p>
+<p align="center" href="https://mail.google.com/mail/?view=cm&fs=1&to=mail.saikirandasari41@gmail.com"> 𝐸𝑚𝑎𝑖𝑙: <a href=mailto:<Saikiran>saikirandasari41@gmail.com?subject="HTML link">Click here to send me an email!!!</a> <br> 𝐿𝑖𝑛𝑘𝑒𝑑𝐼𝑛: www.linkedin.com/in/saikiran-datascience/</p>
