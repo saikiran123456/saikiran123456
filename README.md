@@ -22,27 +22,6 @@ Below is a list of some of the skills that I've gained throughout my experience 
 These courses were influential in my theoretical understanding of machine learning, deep learning, and data science. Later, I began to work on projects ranging from __BFSI/FinTech__, __Healthcare__, __Retail__,and __automobile__ industries. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling machine learning problems. Thanks.🙂
 -----
 
-<p align="center">
-  𝑪𝒐𝒏𝒕𝒓𝒊𝒃 𝑺𝒕𝒂𝒕𝒔:
-</p>
-
-<p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=masterx-ai&show_icons=true&theme=tokyonight">
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=masterx-ai&theme=tokyonight">
-</p>
-
-<!--p align="center">
-  <img width="70%" src="https://activity-graph.herokuapp.com/graph?username=masterx-ai&theme=react-dark&hide_border=true&area=true">
-</p-->
-
------
-
-<p align="center">
-  𝑲𝒏𝒐𝒘𝒍𝒆𝒅𝒈𝒆 𝑰𝒏:
-</p>
-
-![Skills](https://user-images.githubusercontent.com/54996245/147096973-e1d818e7-ff09-48eb-af5c-51fa68a1d3b5.png)
-
 
 ------------------------------------------------------------------------------------------------------
 
