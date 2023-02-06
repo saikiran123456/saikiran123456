@@ -56,7 +56,7 @@ Below is a list of some of the skills that I've gained throughout my experience 
 [![](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=red)](https://streamlit.io/)
 [![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.2.x/)
 
-[![](https://img.shields.io/badge/beautifulsoup-000000?style=for-the-badge&logo=beautifulsoup&logoColor=white)](https://pypi.org/project/beautifulsoup4/)
+[![](https://img.shields.io/badge/beautifulsoup4-000000?style=for-the-badge&logo=beautifulsoup4&logoColor=white)](https://pypi.org/project/beautifulsoup4/)
 [![](https://img.shields.io/badge/scrapy-000000?style=for-the-badge&logo=scrapy&logoColor=green)](https://docs.scrapy.org/en/latest/)
 
 [![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com) 
