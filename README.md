@@ -36,6 +36,6 @@ These courses were influential in my theoretical understanding of machine learni
 <p align="center">𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒈𝒆𝒕 𝒊𝒏 𝒕𝒐𝒖𝒄𝒉:</p>
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/saikiran-datascience/) [![Twitter](https://img.shields.io/twitter/follow/Walk_With_Himz?logo=Twitter&style=for-the-badge)](https://twitter.com/dasari2011) [![Medium](https://img.shields.io/badge/Medium-0077B5?style=for-the-badge&logo=linkedin&logoColor=Black)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/saikiran-datascience/) [![Twitter](https://img.shields.io/twitter/follow/@dasari2011?logo=Twitter&style=for-the-badge)](https://twitter.com/dasari2011)[![Medium](https://img.shields.io/badge/Medium-0077B5?style=for-the-badge&logo=medium&logoColor=Black)
 
 <p align="center" href="https://mail.google.com/mail/?view=cm&fs=1&to=mail.saikirandasari41@gmail.com"> 𝐸𝑚𝑎𝑖𝑙: <a href=mailto:<Saikiran>saikirandasari41@gmail.com</a> <br> 𝐿𝑖𝑛𝑘𝑒𝑑𝐼𝑛: www.linkedin.com/in/saikiran-datascience/ <br> My Medium Blogs on Data Science: https://saikirandasari41.medium.com/ </p>
