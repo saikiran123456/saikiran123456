@@ -87,7 +87,6 @@ These courses were influential in my theoretical understanding of machine learni
 [![Twitter](https://img.shields.io/twitter/follow/dasari2011?logo=Twitter&style=for-the-badge)](https://twitter.com/dasari2011)
 
 
-
 <div align="center">
 
 ### 𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒈𝒆𝒕 𝒊𝒏 𝒕𝒐𝒖𝒄𝒉, Star or Fork this repo :)
