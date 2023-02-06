@@ -44,9 +44,9 @@ Below is a list of some of the skills that I've gained throughout my experience 
 [![](https://img.shields.io/badge/PostgreSQL-276DC3?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-[![](https://img.shields.io/badge/Matplotlib-F2C811?style=for-the-badge&logo=Matplotlib%20BI&logoColor=white)](https://app.powerbi.com/home)](https://matplotlib.org/)
-[![](https://img.shields.io/badge/Seaborn-F2C811?style=for-the-badge&logo=Seaborn%20BI&logoColor=white)](https://app.powerbi.com/home)](https://seaborn.pydata.org/)
-[![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI%20BI&logoColor=white)](https://app.powerbi.com/home)
+[![](https://img.shields.io/badge/Matplotlib-F2C811?style=for-the-badge&logo=Matplotlib%20BI&logoColor=lightblue)](https://matplotlib.org/)
+[![](https://img.shields.io/badge/Seaborn-F2C811?style=for-the-badge&logo=Seaborn%20BI&logoColor=blue)](https://seaborn.pydata.org/)
+[![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI%20BI&logoColor=yellow)](https://app.powerbi.com/home)
 [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/saikiran2351)
 
 [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org)
