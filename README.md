@@ -75,8 +75,6 @@ These courses were influential in my theoretical understanding of machine learni
 ------------------------------------------------------------------------------------------------------
 
 
-<p align="center">𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒈𝒆𝒕 𝒊𝒏 𝒕𝒐𝒖𝒄𝒉:</p>
-
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/saikiran-datascience/) 
 [![Medium](https://img.shields.io/badge/Medium-0077B5?style=for-the-badge&logo=medium&logoColor=Green)](https://saikirandasari41.medium.com/)
@@ -84,6 +82,6 @@ These courses were influential in my theoretical understanding of machine learni
 
 <div align="center">
 
-### Feel Free To Star or Fork the repositories :)
+### 𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒈𝒆𝒕 𝒊𝒏 𝒕𝒐𝒖𝒄𝒉 and to Star or Fork the repositories :)
 
 </div>
