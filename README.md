@@ -82,6 +82,6 @@ These courses were influential in my theoretical understanding of machine learni
 
 <div align="center">
 
-### 𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒈𝒆𝒕 𝒊𝒏 𝒕𝒐𝒖𝒄𝒉 _**and to Star or Fork the repositories**_ :)
+### 𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒈𝒆𝒕 𝒊𝒏 𝒕𝒐𝒖𝒄𝒉, Star or Fork this repo :)
 
 </div>
