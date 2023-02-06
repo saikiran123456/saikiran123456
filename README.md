@@ -52,8 +52,11 @@ Below is a list of some of the skills that I've gained throughout my experience 
 [![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io)
 [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org)
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=red)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+![Beautifulsoup4](https://img.shields.io/badge/beautifulsoup-000000?style=for-the-badge&logo=beautifulsoup&logoColor=white)
+![Scrapy](https://img.shields.io/badge/scrapy-000000?style=for-the-badge&logo=scrapy&logoColor=green)
 
 [![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com) 
 [![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com)
