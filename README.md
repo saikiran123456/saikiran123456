@@ -3,7 +3,7 @@ alt="Waving hand animated gif"
 height="45"
 width="45" /> I'm Saikiran Dasari</h1>
 
-## A.I Variant | ExcelR
+## A.I Variant, TechTip24 | ExcelR | eClinicalWorks | Xavier Institute of Engineering
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HimGos&label=Profile Views&color=blue&style=plastic&style=for-the-badge" alt="HimGos" /> </p>
 
