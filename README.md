@@ -80,6 +80,6 @@ These courses were influential in my theoretical understanding of machine learni
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/saikiran-datascience/) 
 [![Medium](https://img.shields.io/badge/Medium-0077B5?style=for-the-badge&logo=medium&logoColor=Green)](https://saikirandasari41.medium.com/)
-[![Twitter](https://img.shields.io/twitter/follow/@dasari2011?logo=Twitter&style=for-the-badge)](https://twitter.com/dasari2011)
+[![Twitter](https://img.shields.io/twitter/follow/dasari2011?logo=Twitter&style=for-the-badge)](https://twitter.com/dasari2011)
 
 
