@@ -32,7 +32,7 @@ width="45" /> I'm Saikiran Dasari</h1>
 
 Below is a list of some of the skills that I've gained throughout my experience of working with data science and machine learning. Utilizing these important __tools__ and __techniques__ helped me build __machine learning projects__ and understand their work in full detail. Feel free to take a look.
 
-[![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)()
+[![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org)
 
 [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
@@ -41,7 +41,7 @@ Below is a list of some of the skills that I've gained throughout my experience 
 [![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 [![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com)
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+[![](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/PostgreSQL-276DC3?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -55,7 +55,7 @@ Below is a list of some of the skills that I've gained throughout my experience 
 ![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=red)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-[![](https://img.shields.io/badge/beautifulsoup-000000?style=for-the-badge&logo=beautifulsoup&logoColor=white)(https://pypi.org/project/beautifulsoup4/)
+[![](https://img.shields.io/badge/beautifulsoup-000000?style=for-the-badge&logo=beautifulsoup&logoColor=white)](https://pypi.org/project/beautifulsoup4/)
 ![Scrapy](https://img.shields.io/badge/scrapy-000000?style=for-the-badge&logo=scrapy&logoColor=green)
 
 [![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com) 
