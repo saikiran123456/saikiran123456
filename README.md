@@ -13,7 +13,7 @@ width="45" /> I'm Saikiran Dasari</h1>
 - 𝐻𝑖, 𝑚𝑦 𝑛𝑎𝑚𝑒 𝑖𝑠 Saikiran 𝑎𝑛 𝐴𝐼 & 𝑀𝐿 𝐸𝑛𝑡ℎ𝑢𝑠𝑖𝑎𝑠𝑡!😀
 - 💻 Data Scientist & Analyst</b>.
 - 💻 Love to get the most out of data</b>.
-- 🔭 I’m currently building Machine Learning Project.
+- 🔭 I’m currently building Machine Learning Projects and Deploying them as End-To-End Solutions.
 - 🌱 I’m currently mastering Data Science and Several Python based libraries.
 - 💬 Ask me about Python, Data Analysis, Machine Learning and Databases
 - 📫 How to reach me: Check social links below.
@@ -51,6 +51,9 @@ Below is a list of some of the skills that I've gained throughout my experience 
 [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org)
 [![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io)
 [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org)
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=red)
 
 [![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com) 
 [![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com)
