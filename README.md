@@ -39,13 +39,14 @@ Below is a list of some of the skills that I've gained throughout my experience 
 [![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)](https://www.scipy.org)
 [![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
-[![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com)
 
 [![](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/PostgreSQL-276DC3?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-[![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://app.powerbi.com/home)
+[![](https://img.shields.io/badge/Matplotlib-F2C811?style=for-the-badge&logo=Matplotlib%20BI&logoColor=white)](https://app.powerbi.com/home)](https://matplotlib.org/)
+[![](https://img.shields.io/badge/Seaborn-F2C811?style=for-the-badge&logo=Seaborn%20BI&logoColor=white)](https://app.powerbi.com/home)](https://seaborn.pydata.org/)
+[![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI%20BI&logoColor=white)](https://app.powerbi.com/home)
 [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/saikiran2351)
 
 [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org)
