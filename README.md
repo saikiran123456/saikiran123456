@@ -1,8 +1,23 @@
-# Saikiran Dasari  Data_Scientist
+<h1 align="center"> Hey, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+alt="Waving hand animated gif"
+height="45"
+width="45" /> I'm Saikiran Dasari</h1>
 
 ## A.I Variant 
 
-𝐻𝑖, 𝑚𝑦 𝑛𝑎𝑚𝑒 𝑖𝑠 Saikiran 𝑎𝑛 𝐴𝐼 & 𝑀𝐿 𝐸𝑛𝑡ℎ𝑢𝑠𝑖𝑎𝑠𝑡!😀
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HimGos&label=Profile Views&color=blue&style=plastic&style=for-the-badge" alt="HimGos" /> </p>
+
+<img  align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="gif">
+
+# 💫 About Me : 
+- 𝐻𝑖, 𝑚𝑦 𝑛𝑎𝑚𝑒 𝑖𝑠 Saikiran 𝑎𝑛 𝐴𝐼 & 𝑀𝐿 𝐸𝑛𝑡ℎ𝑢𝑠𝑖𝑎𝑠𝑡!😀
+- 💻 Data Scientist & Analyst</b>.
+- 💻 Love to get the most out of data</b>.
+- 🔭 I’m currently building Machine Learning Project.
+- 🌱 I’m currently mastering Data Science and Several Python based libraries.
+- 💬 Ask me about Python, Data Analysis, Machine Learning and Databases
+- 📫 How to reach me: Check social links below.
+
 
 𝐼 𝑎𝑚 𝑝𝑎𝑠𝑠𝑖𝑜𝑛𝑎𝑡𝑒 𝑎𝑏𝑜𝑢𝑡 𝐴𝑟𝑡𝑖𝑓𝑖𝑐𝑖𝑎𝑙 𝐼𝑛𝑡𝑒𝑙𝑙𝑖𝑔𝑒𝑛𝑐𝑒 & 𝑀𝑎𝑐ℎ𝑖𝑛𝑒 𝐿𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝐴𝑑𝑣𝑎𝑛𝑐𝑒𝑚𝑒𝑛𝑡𝑠.🤓
 
@@ -13,7 +28,7 @@
 
 𝒀𝒆𝒕, 𝒕𝒉𝒆 𝒑𝒂𝒔𝒔𝒊𝒐𝒏 𝒈𝒓𝒐𝒘𝒔 𝒘𝒊𝒕𝒉 𝒕𝒉𝒆 𝒂𝒊𝒎 𝒐𝒇 𝒍𝒊𝒇𝒆𝒍𝒐𝒏𝒈 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒕𝒐𝒘𝒂𝒓𝒅𝒔 𝒔𝒉𝒂𝒑𝒊𝒏𝒈 𝒕𝒉𝒆 𝒇𝒖𝒕𝒖𝒓𝒆!🧐
 
-I'm passionate about __Machine Learning__ and __Data Science__. With the development of __technology__, I believe that there is a huge potential for __Artificial Intelligence__ in different domains. The rapid rate at which there is advancement in __computing power__ and the freedom to take a __large amount of data__ really pushes the field of __Data Science__ and __Machine Learning__ to a whole new level.
+## 💻 Tech Stack
 
 Below is a list of some of the skills that I've gained throughout my experience of working with data science and machine learning. Utilizing these important __tools__ and __techniques__ helped me build __machine learning projects__ and understand their work in full detail. Feel free to take a look.
 
@@ -31,11 +46,15 @@ These courses were influential in my theoretical understanding of machine learni
 	
 </p>
 
+
 ------------------------------------------------------------------------------------------------------
+
 
 <p align="center">𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒈𝒆𝒕 𝒊𝒏 𝒕𝒐𝒖𝒄𝒉:</p>
 
+
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/saikiran-datascience/) [![Twitter](https://img.shields.io/twitter/follow/@dasari2011?logo=Twitter&style=for-the-badge)](https://twitter.com/dasari2011)[![Medium](https://img.shields.io/badge/Medium-0077B5?style=for-the-badge&logo=medium&logoColor=Black)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/saikiran-datascience/) [![Twitter](https://img.shields.io/twitter/follow/@dasari2011?logo=Twitter&style=for-the-badge)](https://twitter.com/dasari2011)[![Medium](https://img.shields.io/badge/Medium-0077B5?style=for-the-badge&logo=medium&logoColor=Green)]
+
 
 <p align="center" href="https://mail.google.com/mail/?view=cm&fs=1&to=mail.saikirandasari41@gmail.com"> 𝐸𝑚𝑎𝑖𝑙: <a href=mailto:<Saikiran>saikirandasari41@gmail.com</a> <br> 𝐿𝑖𝑛𝑘𝑒𝑑𝐼𝑛: www.linkedin.com/in/saikiran-datascience/ <br> My Medium Blogs on Data Science: https://saikirandasari41.medium.com/ </p>
