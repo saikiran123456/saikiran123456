@@ -47,14 +47,8 @@ Below is a list of some of the skills that I've gained throughout my experience 
 [![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)](https://www.scipy.org)
 [![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 
-[![](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![](https://img.shields.io/badge/PostgreSQL-276DC3?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-
 [![](https://img.shields.io/badge/matplotlib-2C2D72?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![](https://img.shields.io/badge/Seaborn-276DC3?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
-[![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI%20BI&logoColor=yellow)](https://app.powerbi.com/home)
-[![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/saikiran2351)
 
 [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org)
 [![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io)
@@ -72,6 +66,17 @@ Below is a list of some of the skills that I've gained throughout my experience 
 [![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com)
 [![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) 
 [![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint) 
+
+### **Databases**:
+
+[![](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![](https://img.shields.io/badge/PostgreSQL-276DC3?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+### **BI Tools:**:
+
+[![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI%20BI&logoColor=yellow)](https://app.powerbi.com/home)
+[![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/saikiran2351)
 
 These courses were influential in my theoretical understanding of machine learning, deep learning, and data science. Later, I began to work on projects ranging from __BFSI/FinTech__, __Healthcare__, __Retail__. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling machine learning problems. Thanks.🙂
 
