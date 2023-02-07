@@ -13,7 +13,6 @@ width="45" /> I'm Saikiran Dasari</h1>
 - 💻 Data Scientist & Analyst</b>.
 - 🌱 Passionate about Data Science and Machine Learning. "Learning Makes Me Happy" 💻 Love to get the most out of data</b>.
 - 🔭 I’m currently building Machine Learning Projects with model deployment and monitoring.
-- 🌱 I’m currently mastering Data Science and Several Python based libraries.
 - 💬 Ask me about Python, Data Analysis, Machine Learning and Databases
 - 👯 I write articles on **<a href= "https://saikirandasari41.medium.com/">Medium</a>** aiming to explain the concepts in layman terms.
 
