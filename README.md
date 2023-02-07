@@ -27,6 +27,10 @@ width="45" /> I'm Saikiran Dasari</h1>
 
 𝒀𝒆𝒕, 𝒕𝒉𝒆 𝒑𝒂𝒔𝒔𝒊𝒐𝒏 𝒈𝒓𝒐𝒘𝒔 𝒘𝒊𝒕𝒉 𝒕𝒉𝒆 𝒂𝒊𝒎 𝒐𝒇 𝒍𝒊𝒇𝒆𝒍𝒐𝒏𝒈 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒕𝒐𝒘𝒂𝒓𝒅𝒔 𝒔𝒉𝒂𝒑𝒊𝒏𝒈 𝒕𝒉𝒆 𝒇𝒖𝒕𝒖𝒓𝒆!🧐
 
+<br />
+
+* * *
+
 ## 💻 Tech Stack
 
 Below is a list of some of the skills that I've gained throughout my experience of working with data science and machine learning. Utilizing these important __tools__ and __techniques__ helped me build __machine learning projects__ and understand their work in full detail. Feel free to take a look.
@@ -66,7 +70,11 @@ Below is a list of some of the skills that I've gained throughout my experience 
 [![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint) 
 
 These courses were influential in my theoretical understanding of machine learning, deep learning, and data science. Later, I began to work on projects ranging from __BFSI/FinTech__, __Healthcare__, __Retail__. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling machine learning problems. Thanks.🙂
------
+
+
+<br />
+
+* * *
 
 
 ## 📟 GitHub Stats
