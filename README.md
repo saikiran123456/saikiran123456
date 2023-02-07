@@ -11,8 +11,8 @@ width="45" /> I'm Saikiran Dasari</h1>
 
 # 💫 About Me : 
 - 💻 Data Scientist & Analyst</b>.
-- 💻 Love to get the most out of data</b>.
-- 🔭 I’m currently building Machine Learning Projects and Deploying them as End-To-End Solutions.
+- 🌱 Passionate about Data Science and Machine Learning. "Learning Makes Me Happy" 💻 Love to get the most out of data</b>.
+- 🔭 I’m currently building Machine Learning Projects with model deployment and monitoring.
 - 🌱 I’m currently mastering Data Science and Several Python based libraries.
 - 💬 Ask me about Python, Data Analysis, Machine Learning and Databases
 - 👯 I write articles on **<a href= "https://saikirandasari41.medium.com/">Medium</a>** aiming to explain the concepts in layman terms.
@@ -35,8 +35,12 @@ width="45" /> I'm Saikiran Dasari</h1>
 
 Below is a list of some of the skills that I've gained throughout my experience of working with data science and machine learning. Utilizing these important __tools__ and __techniques__ helped me build __machine learning projects__ and understand their work in full detail. Feel free to take a look.
 
+### **Languages**:
+
 [![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org)
+
+### **Tools**: 
 
 [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
 [![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
