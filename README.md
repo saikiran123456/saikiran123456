@@ -15,7 +15,7 @@ width="45" /> I'm Saikiran Dasari</h1>
 - 🔭 I’m currently building Machine Learning Projects and Deploying them as End-To-End Solutions.
 - 🌱 I’m currently mastering Data Science and Several Python based libraries.
 - 💬 Ask me about Python, Data Analysis, Machine Learning and Databases
-- 📫 How to reach me: Check social links below.
+- 👯 I write articles on **<a href= "https://saikirandasari41.medium.com/">Medium</a>** aiming to explain the concepts in layman terms.
 
 
 𝐼 𝑎𝑚 𝑝𝑎𝑠𝑠𝑖𝑜𝑛𝑎𝑡𝑒 𝑎𝑏𝑜𝑢𝑡 𝐴𝑟𝑡𝑖𝑓𝑖𝑐𝑖𝑎𝑙 𝐼𝑛𝑡𝑒𝑙𝑙𝑖𝑔𝑒𝑛𝑐𝑒 & 𝑀𝑎𝑐ℎ𝑖𝑛𝑒 𝐿𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝐴𝑑𝑣𝑎𝑛𝑐𝑒𝑚𝑒𝑛𝑡𝑠.🤓
