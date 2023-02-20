@@ -93,7 +93,7 @@ These courses were influential in my theoretical understanding of machine learni
 </p>
 
 
-------------------------------------------------------------------------------------------------------
+
 
 ## 🌐 <h2> **Connect with me** <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikiran-datascience/) 
