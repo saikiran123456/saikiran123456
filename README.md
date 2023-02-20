@@ -91,7 +91,7 @@ These courses were influential in my theoretical understanding of machine learni
 
 | ![Saikiran's github stats](https://github-readme-stats.vercel.app/api?username=saikiran123456&show_icons=true&theme=radical) | ![Saikiran's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saikiran123456&theme=radical) |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saikiran123456&langs_count=8&theme=radical&layout=compact) | ![Github Stars]<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikiran123456&theme=vue" /> | 
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saikiran123456&langs_count=8&theme=radical&layout=compact) | ![Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikiran123456&theme=vue) | 
 
 
 
