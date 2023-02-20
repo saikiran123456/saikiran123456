@@ -95,7 +95,7 @@ These courses were influential in my theoretical understanding of machine learni
 
 ------------------------------------------------------------------------------------------------------
 
-## 🌐 Socials
+## 🌐 Socials <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikiran-datascience/) 
 [![Medium](https://img.shields.io/badge/Medium-0077B5?style=for-the-badge&logo=medium&logoColor=Green)](https://saikirandasari41.medium.com/)
 [![Kaggle](https://img.shields.io/badge/kaggle-0077B5?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/saikirandasari) 
