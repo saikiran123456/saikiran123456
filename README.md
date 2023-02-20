@@ -14,7 +14,7 @@ width="45" /> I'm Saikiran Dasari</h1>
 - 🌱 Passionate about Data Science and Machine Learning. "Learning Makes Me Happy" 💻 Love to get the most out of data</b>.
 - 🔭 I’m currently building Machine Learning Projects with model deployment and monitoring.
 - 💬 Ask me about Python, Data Analysis, Machine Learning and Databases
-- 👯 I write articles on **<a href= "https://saikirandasari41.medium.com/">Medium</a>** aiming to explain the concepts in layman terms.
+- 👯 I write articles on **<a href= "https://saikirandasari41.medium.com/">Medium</a>** aiming to explain the concepts in layman terms. 👯 I’m looking to collaborate on Projects,Tech Articles etc
 
 
 𝐼 𝑎𝑚 𝑝𝑎𝑠𝑠𝑖𝑜𝑛𝑎𝑡𝑒 𝑎𝑏𝑜𝑢𝑡 𝐴𝑟𝑡𝑖𝑓𝑖𝑐𝑖𝑎𝑙 𝐼𝑛𝑡𝑒𝑙𝑙𝑖𝑔𝑒𝑛𝑐𝑒 & 𝑀𝑎𝑐ℎ𝑖𝑛𝑒 𝐿𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝐴𝑑𝑣𝑎𝑛𝑐𝑒𝑚𝑒𝑛𝑡𝑠.🤓
@@ -26,9 +26,6 @@ width="45" /> I'm Saikiran Dasari</h1>
 
 𝒀𝒆𝒕, 𝒕𝒉𝒆 𝒑𝒂𝒔𝒔𝒊𝒐𝒏 𝒈𝒓𝒐𝒘𝒔 𝒘𝒊𝒕𝒉 𝒕𝒉𝒆 𝒂𝒊𝒎 𝒐𝒇 𝒍𝒊𝒇𝒆𝒍𝒐𝒏𝒈 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒕𝒐𝒘𝒂𝒓𝒅𝒔 𝒔𝒉𝒂𝒑𝒊𝒏𝒈 𝒕𝒉𝒆 𝒇𝒖𝒕𝒖𝒓𝒆!🧐
 
-<br />
-
-* * *
 
 ## 💻 Tech Stack
 
