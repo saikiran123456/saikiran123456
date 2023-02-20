@@ -83,11 +83,6 @@ These courses were influential in my theoretical understanding of machine learni
 
 
 ## 📟 GitHub Stats
-<p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=saikiran123456&show_icons=true&theme=vue" />   
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saikiran123456&theme=vue" />  
-	<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikiran123456&theme=vue" />	
-</p>
 
 | ![Saikiran's github stats](https://github-readme-stats.vercel.app/api?username=saikiran123456&show_icons=true&theme=radical) | ![Saikiran's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saikiran123456&theme=radical) |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
