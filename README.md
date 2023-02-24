@@ -58,7 +58,7 @@ Below is a list of some of the skills that I've gained throughout my experience 
 
 [![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com) 
 [![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com)
-[![](https://img.shields.io/badge/visualstudio-F9AB00?style=for-the-badge&logo=visualstudio&color=ADD8E6)](https://visualstudio.microsoft.com/)
+[![](https://img.shields.io/badge/visualstudio-F9AB00?style=for-the-badge&logo=visualstudio&color=0000FF)](https://visualstudio.microsoft.com/)
 [![](https://img.shields.io/badge/spyder-F9AB00?style=for-the-badge&logo=spyder&color=FF0000)](https://www.spyder-ide.org/)
 
 [![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com)
