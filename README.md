@@ -2,7 +2,7 @@
 
 ## Hi there <img width="28px" alt="Hi" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" />
 
-Myself Saikiran, I'm a Data Science Researcher!! I spend most of time coding and building outstanding products.
+Myself Saikiran, I'm a Data Science Researcher!! I spend most of my time coding and building outstanding products.
 
 <img align="right" alt="GIF" src="GIF/Data scientist2.gif" width="340" height="250" />
 
