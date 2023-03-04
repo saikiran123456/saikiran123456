@@ -32,6 +32,9 @@ Below is a list of some of the skills that I've gained throughout my experience 
 [![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org)
 
+
+<img align="right" alt="GIF" src="GIF/stack.gif" width="380" height="280" />
+
 ### **Tools**: 
 
 [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
