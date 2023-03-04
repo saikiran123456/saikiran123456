@@ -89,24 +89,6 @@ These courses were influential in my theoretical understanding of machine learni
 
 
 
-## <h2> **Connect with me** <img src='https://github.com/saikiran123456/saikiran123456/blob/Machine-learning/GIF/handshake.gif' width="100px"> </h2>
-
-[<img align="left" alt="GMail" width="35px" src="Social/gmail.png" />](saikiran.dasari2011@gmail.com)
-
-[<img align="left" alt="LinkedIn" width="35px" src="Social/linkedin.png" />](https://www.linkedin.com/in/saikiran-datascience/)
-
-[<img align="left" alt="Medium" width="35px" src="Social/1200px-Medium_logo_Monogram.svg.png" />](https://medium.com/@saikirandasari41)
-
-<a href="https://www.kaggle.com/saikirandasari" target="_blank"><img  align="left" alt="Kaggle" height="40px" width="35px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" ></a>
-
-<div align="center">
-
-### 𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒈𝒆𝒕 𝒊𝒏 𝒕𝒐𝒖𝒄𝒉, 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
-
-</div>
-
-
-
 * * *
 
 # **Checkout recent post from me on medium**
@@ -122,3 +104,20 @@ These courses were influential in my theoretical understanding of machine learni
 <br />
 
 * * *
+
+
+## <h2> **Connect with me** <img src='https://github.com/saikiran123456/saikiran123456/blob/Machine-learning/GIF/handshake.gif' width="100px"> </h2>
+
+[<img align="left" alt="GMail" width="35px" src="Social/gmail.png" />](saikiran.dasari2011@gmail.com)
+
+[<img align="left" alt="LinkedIn" width="35px" src="Social/linkedin.png" />](https://www.linkedin.com/in/saikiran-datascience/)
+
+[<img align="left" alt="Medium" width="35px" src="Social/1200px-Medium_logo_Monogram.svg.png" />](https://medium.com/@saikirandasari41)
+
+<a href="https://www.kaggle.com/saikirandasari" target="_blank"><img  align="left" alt="Kaggle" height="40px" width="35px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" ></a>
+
+<div align="center">
+
+### 𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒈𝒆𝒕 𝒊𝒏 𝒕𝒐𝒖𝒄𝒉, 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+
+</div>
