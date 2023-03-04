@@ -103,3 +103,21 @@ These courses were influential in my theoretical understanding of machine learni
 ### 𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒈𝒆𝒕 𝒊𝒏 𝒕𝒐𝒖𝒄𝒉, 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
 </div>
+
+
+
+* * *
+
+# **Checkout recent post from me on medium**
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@saikirandasari41/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@saikirandasari41/0" alt="Recent Article 0"> 
+</br>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@saikirandasari41/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@saikirandasari41/1" alt="Recent Article 1">
+</br>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@saikirandasari41/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@saikirandasari41/2" alt="Recent Article 2">
+</br>
+**<a href="https://medium.com/@saikirandasari41">For More</a>**
+
+<br />
+
+* * *
