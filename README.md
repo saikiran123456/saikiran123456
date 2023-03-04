@@ -90,13 +90,7 @@ These courses were influential in my theoretical understanding of machine learni
 
 
 
-## <h2> **Connect with me** <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikiran-datascience/)
-[![Medium](https://img.shields.io/badge/Medium-0077B5?style=for-the-badge&logo=medium&logoColor=Green)](https://saikirandasari41.medium.com/)
-[![Kaggle](https://img.shields.io/badge/kaggle-0077B5?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/saikirandasari) 
-[![Twitter](https://img.shields.io/twitter/follow/dasari2011?logo=Twitter&style=for-the-badge)](https://twitter.com/dasari2011)
-
-### **Connect With Me**:
+## <h2> **Connect with me** <img src='https://github.com/saikiran123456/saikiran123456/blob/Machine-learning/GIF/handshake.gif' width="100px"> </h2>
 
 [<img align="left" alt="GMail" width="35px" src="Social/gmail.png" />](saikiran.dasari2011@gmail.com)
 
@@ -104,7 +98,7 @@ These courses were influential in my theoretical understanding of machine learni
 
 [<img align="left" alt="Medium" width="35px" src="Social/1200px-Medium_logo_Monogram.svg.png" />](https://medium.com/@saikirandasari41)
 
-<a href="https://www.kaggle.com/saikirandasari" target="_blank"><img  align="left" alt="Kaggle" width="35px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" height="120px" width="120px" alt="Kaggle" align="right"></a>
+<a href="https://www.kaggle.com/saikirandasari" target="_blank"><img  align="left" alt="Kaggle" height="40px" width="35px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" ></a>
 
 <div align="center">
 
