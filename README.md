@@ -120,7 +120,7 @@ These courses were influential in my theoretical understanding of machine learni
 
 [<img align="left" alt="GMail" width="35px" src="Social/gmail.png" />](saikiran.dasari2011@gmail.com)
 
-[<img align="left" alt="LinkedIn" width="35px" src="Social/linkedin.png" />](https://www.linkedin.com/in/saikiran-datascience/)
+[<img align="left" alt="LinkedIn" height="40px" width="40px" src="Social/linkedin.png" />](https://www.linkedin.com/in/saikiran-datascience/)
 
 [<img align="left" alt="Medium" width="35px" src="Social/1200px-Medium_logo_Monogram.svg.png" />](https://medium.com/@saikirandasari41)
 
