@@ -2,8 +2,6 @@
 
 ## Hi there <img width="28px" alt="Hi" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HimGos&label=Profile Views&color=blue&style=plastic&style=for-the-badge" alt="HimGos" /> </p>
-
 Myself Saikiran, I'm a Data Science Researcher!! I spend most of time coding and building outstanding products.
 
 <img align="right" alt="GIF" src="GIF/Data scientist2.gif" width="340" height="250" />
