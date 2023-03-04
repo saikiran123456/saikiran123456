@@ -98,6 +98,14 @@ These courses were influential in my theoretical understanding of machine learni
 [![Kaggle](https://img.shields.io/badge/kaggle-0077B5?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/saikirandasari) 
 [![Twitter](https://img.shields.io/twitter/follow/dasari2011?logo=Twitter&style=for-the-badge)](https://twitter.com/dasari2011)
 
+### **Connect With Me**:
+
+[<img align="left" alt="GMail" width="35px" src="Social/gmail.png" />](saikiran.dasari2011@gmail.com)
+
+[<img align="left" alt="LinkedIn" width="35px" src="Social/linkedin.png" />](https://www.linkedin.com/in/saikiran-datascience/)
+
+[<img align="left" alt="Medium" width="35px" src="Social/1200px-Medium_logo_Monogram.svg.png" />](https://medium.com/@saikirandasari41)
+
 
 <div align="center">
 
