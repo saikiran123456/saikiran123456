@@ -8,8 +8,6 @@ Myself Saikiran, I'm a Data Science Researcher!! I spend most of time coding and
 
 <img align="right" alt="GIF" src="GIF/Data scientist2.gif" width="340" height="250" />
 
-<a href="https://www.linkedin.com/in/saikiran-datascience/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-<a href="https://www.kaggle.com/saikirandasari" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" height="120px" width="120px" alt="Kaggle" align="right"></a>
 - 🔭 Currently working at **<a href="https://aivariant.com/">AIvariant</a>**.
 
 - 🌱 Passionate about Data Science and Machine Learning. "Learning Makes Me Happy" 
@@ -106,6 +104,7 @@ These courses were influential in my theoretical understanding of machine learni
 
 [<img align="left" alt="Medium" width="35px" src="Social/1200px-Medium_logo_Monogram.svg.png" />](https://medium.com/@saikirandasari41)
 
+<a href="https://www.kaggle.com/saikirandasari" target="_blank"><img  align="left" alt="Kaggle" width="35px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" height="120px" width="120px" alt="Kaggle" align="right"></a>
 
 <div align="center">
 
