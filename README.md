@@ -1,24 +1,21 @@
 ![Banner](https://github.com/saikiran123456/saikiran123456/blob/Machine-learning/MyBanner.jpg)
 
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif",
-alt="Waving hand animated gif"
-height="45"
-width="45" /> I'm Saikiran Dasari</h1>
+## Hi there <img width="28px" alt="Hi" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HimGos&label=Profile Views&color=blue&style=plastic&style=for-the-badge" alt="HimGos" /> </p>
 
-<img  align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="gif"> 
+Myself Saikiran, I'm a Data Science Researcher!! I spend most of time coding and building outstanding products.
 
-# 💫 About Me : Myself Saikiran, I'm a Data Science Researcher!! I spend most of time coding and building outstanding products.
+<img align="right" alt="GIF" src="GIF/Data scientist2.gif" width="340" height="250" />
 
 <a href="https://www.linkedin.com/in/saikiran-datascience/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 <a href="https://www.kaggle.com/saikirandasari" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" height="120px" width="120px" alt="Kaggle" align="right"></a>
 - 🔭 Currently working at **<a href="https://aivariant.com/">HyloBiz</a>**.
-- 
+
 - 🌱 Passionate about Data Science and Machine Learning. "Learning Makes Me Happy" 
-- 
+ 
 - 🔭 I’m currently building Machine Learning Projects with model deployment and monitoring.
-- 
+ 
 - 👯 I write articles on **<a href= "https://saikirandasari41.medium.com/">Medium</a>** aiming to explain the concepts in layman terms.
 
 
