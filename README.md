@@ -7,16 +7,19 @@ width="45" /> I'm Saikiran Dasari</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HimGos&label=Profile Views&color=blue&style=plastic&style=for-the-badge" alt="HimGos" /> </p>
 
-<img  align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="gif">  Data is today's fuel. The sheer power of data drove me to initiate my journey into the mysterious world of Data Science.
+<img  align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="gif"> 
 
-# 💫 About Me : 
+# 💫 About Me : Myself Saikiran, I'm a Data Science Researcher!! I spend most of time coding and building outstanding products.
+
 <a href="https://www.linkedin.com/in/saikiran-datascience/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 <a href="https://www.kaggle.com/saikirandasari" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" height="120px" width="120px" alt="Kaggle" align="right"></a>
-- 💻 Data Scientist & Analyst</b>.
-- 🌱 Passionate about Data Science and Machine Learning. "Learning Makes Me Happy" 💻 Love to get the most out of data</b>.
+- 🔭 Currently working at **<a href="https://aivariant.com/">HyloBiz</a>**.
+- 
+- 🌱 Passionate about Data Science and Machine Learning. "Learning Makes Me Happy" 
+- 
 - 🔭 I’m currently building Machine Learning Projects with model deployment and monitoring.
-- 💬 Ask me about Python, Numpy, Pandas, Seaborn, Matplotlib, BeautifulSoup, Scrapy, Machine Learning Algorithms
-- 👯 I write articles on **<a href= "https://saikirandasari41.medium.com/">Medium</a>** aiming to explain the concepts in layman terms. I’m can also collaborate on Projects,Tech Articles etc
+- 
+- 👯 I write articles on **<a href= "https://saikirandasari41.medium.com/">Medium</a>** aiming to explain the concepts in layman terms.
 
 
 𝐼 𝑎𝑚 𝑝𝑎𝑠𝑠𝑖𝑜𝑛𝑎𝑡𝑒 𝑎𝑏𝑜𝑢𝑡 𝐴𝑟𝑡𝑖𝑓𝑖𝑐𝑖𝑎𝑙 𝐼𝑛𝑡𝑒𝑙𝑙𝑖𝑔𝑒𝑛𝑐𝑒 & 𝑀𝑎𝑐ℎ𝑖𝑛𝑒 𝐿𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝐴𝑑𝑣𝑎𝑛𝑐𝑒𝑚𝑒𝑛𝑡𝑠.🤓
@@ -25,8 +28,6 @@ width="45" /> I'm Saikiran Dasari</h1>
 
 𝑇ℎ𝑒 𝑗𝑜𝑢𝑟𝑛𝑒𝑦 𝑠𝑡𝑎𝑟𝑡𝑒𝑑 𝑤𝑖𝑡ℎ 𝑐𝑢𝑟𝑖𝑜𝑠𝑖𝑡𝑦. 𝑆𝑜 𝐼 𝑏𝑒𝑔𝑎𝑛 𝑡𝑜 𝑎𝑐𝑞𝑢𝑖𝑟𝑒 𝑐𝑜𝑟𝑒 𝑘𝑛𝑜𝑤𝑙𝑒𝑑𝑔𝑒 𝑡𝑜 𝑢𝑛𝑑𝑒𝑟𝑠𝑡𝑎𝑛𝑑 𝑡ℎ𝑒 𝑡𝑟𝑢𝑒 𝑝𝑜𝑡𝑒𝑛𝑡𝑖𝑎𝑙 𝑜𝑓 𝐴𝐼.
 𝐸𝑥𝑝𝑙𝑜𝑟𝑖𝑛𝑔 𝑓𝑢𝑟𝑡ℎ𝑒𝑟 𝑏𝑦 𝑝𝑢𝑟𝑠𝑢𝑖𝑛𝑔 Full Stack Data Science Certification from ExcelR. 𝐹𝑢𝑟𝑡ℎ𝑒𝑟𝑚𝑜𝑟𝑒, 𝐼 ℎ𝑎𝑣𝑒 𝑑𝑜𝑛𝑒 various 𝑟𝑒𝑠𝑒𝑎𝑟𝑐ℎ 𝑓𝑟𝑜𝑚 𝑣𝑎𝑟𝑖𝑜𝑢𝑠 𝑠𝑜𝑢𝑟𝑐𝑒𝑠 𝑎𝑛𝑑 𝑐𝑜𝑚𝑝𝑙𝑒𝑡𝑒𝑑 25+ 𝑐𝑒𝑟𝑡𝑖𝑓𝑖𝑐𝑎𝑡𝑖𝑜𝑛𝑠 𝑝𝑟𝑜𝑔𝑟𝑎𝑚𝑠.🤓
-
-𝒀𝒆𝒕, 𝒕𝒉𝒆 𝒑𝒂𝒔𝒔𝒊𝒐𝒏 𝒈𝒓𝒐𝒘𝒔 𝒘𝒊𝒕𝒉 𝒕𝒉𝒆 𝒂𝒊𝒎 𝒐𝒇 𝒍𝒊𝒇𝒆𝒍𝒐𝒏𝒈 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒕𝒐𝒘𝒂𝒓𝒅𝒔 𝒔𝒉𝒂𝒑𝒊𝒏𝒈 𝒕𝒉𝒆 𝒇𝒖𝒕𝒖𝒓𝒆!🧐
 
 
 ## 💻 Tech Stack
