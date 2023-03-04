@@ -14,7 +14,7 @@ Myself Saikiran, I'm a Data Science Researcher!! I spend most of time coding and
  
 - 👯 I write articles on **<a href= "https://saikirandasari41.medium.com/">Medium</a>** aiming to explain the concepts in layman terms.
 
-- 🥅 **2021 Goals:** 
+- 🥅 **2023 Goals:** 
   - Practice LeetCodes
   - Learn about statistical concepts in-depth.
   - Learn end-to-end Data Science Workflow with model deployment and monitoring. 
