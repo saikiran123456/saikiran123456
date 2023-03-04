@@ -10,7 +10,7 @@ Myself Saikiran, I'm a Data Science Researcher!! I spend most of time coding and
 
 <a href="https://www.linkedin.com/in/saikiran-datascience/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 <a href="https://www.kaggle.com/saikirandasari" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" height="120px" width="120px" alt="Kaggle" align="right"></a>
-- 🔭 Currently working at **<a href="https://aivariant.com/">HyloBiz</a>**.
+- 🔭 Currently working at **<a href="https://aivariant.com/">AIvariant</a>**.
 
 - 🌱 Passionate about Data Science and Machine Learning. "Learning Makes Me Happy" 
  
