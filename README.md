@@ -1,11 +1,10 @@
-![Banner](https://github.com/saikiran123456/saikiran123456/blob/Machine-learning/MyBanner.jpg)
+[<p align="left"> <img src="https://komarev.com/ghpvc/?username=HimGos&label=Profile Views&color=blue&style=plastic&style=for-the-badge" alt="HimGos" /> </p>
+![Banner](https://github.com/saikiran123456/saikiran123456/blob/Machine-learning/MyBanner.jpg)]
 
 <h1 align="center"> Hey, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
 alt="Waving hand animated gif"
 height="45"
 width="45" /> I'm Saikiran Dasari</h1>
-
-## A.I Variant, TechTip24 | ExcelR | eClinicalWorks | Xavier Institute of Engineering
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HimGos&label=Profile Views&color=blue&style=plastic&style=for-the-badge" alt="HimGos" /> </p>
 
