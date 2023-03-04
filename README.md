@@ -17,7 +17,7 @@ Myself Saikiran, I'm a Data Science Researcher!! I spend most of time coding and
 - 🥅 **2023 Goals:** 
   - Practice LeetCodes
   - Learn about statistical concepts in-depth.
-  - Learn end-to-end Data Science Workflow with model deployment and monitoring. 
+  - Learn end-to-end Data Science Workflow with model deployment and dockerization. 
   - Get better at solving problems.
 
 
