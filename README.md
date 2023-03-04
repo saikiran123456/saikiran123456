@@ -106,7 +106,7 @@ These courses were influential in my theoretical understanding of machine learni
 * * *
 
 
-## <h2> **Connect with me** <img src='https://github.com/saikiran123456/saikiran123456/blob/Machine-learning/GIF/handshake.gif' width="100px"> </h2>
+## Connect with me <img src='https://github.com/saikiran123456/saikiran123456/blob/Machine-learning/GIF/handshake.gif' width="100px"> 
 
 [<img align="left" alt="GMail" width="35px" src="Social/gmail.png" />](saikiran.dasari2011@gmail.com)
 
