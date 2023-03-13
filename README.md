@@ -91,7 +91,7 @@ These courses were influential in my theoretical understanding of machine learni
 <img src="https://img.shields.io/badge/VS-Code-blue" alt="vscode" width="80" height="30"/> 
 <img src="https://img.shields.io/badge/Jupyter-orange" alt="Jupyter" width="70" height="30"/>
 <img src="https://img.shields.io/badge/Google%20colab-orange" alt="Google Colab" width="130" height="30"/>
-<img src="https://img.shields.io/badge/Spyder%20red" alt="spyder" width="130" height="30"/>
+<img src="https://img.shields.io/badge/Spyder%20red" alt="Spyder" width="130" height="30"/>
 </p>
 
 <br />
