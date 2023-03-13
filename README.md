@@ -86,6 +86,14 @@ Below is a list of some of the skills that I've gained throughout my experience 
 These courses were influential in my theoretical understanding of machine learning, deep learning, and data science. Later, I began to work on projects ranging from __BFSI/FinTech__, __Healthcare__, __Retail__. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling machine learning problems. Thanks.🙂
 
 
+💻 *IDE's*:
+ <p align="left">
+<img src="https://img.shields.io/badge/VisualStudioCode-darkgreen" alt="PyCharm" width="80" height="30"/> 
+<img src="https://img.shields.io/badge/Jupyter-orange" alt="Jupyter" width="70" height="30"/>
+<img src="https://img.shields.io/badge/Google%20colab-orange" alt="Google Colab" width="130" height="30"/>
+<img src="https://img.shields.io/badge/Spyder%20colab-red" alt="Google Colab" width="130" height="30"/>
+</p>
+
 <br />
 
 * * *
