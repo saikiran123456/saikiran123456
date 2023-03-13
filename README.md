@@ -63,11 +63,6 @@ Below is a list of some of the skills that I've gained throughout my experience 
 [![](https://img.shields.io/badge/beautifulsoup4-000000?style=for-the-badge&logo=beautifulsoup4&logoColor=white)](https://pypi.org/project/beautifulsoup4/)
 [![](https://img.shields.io/badge/scrapy-000000?style=for-the-badge&logo=scrapy&logoColor=green)](https://docs.scrapy.org/en/latest/)
 
-[![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com) 
-[![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com)
-[![](https://img.shields.io/badge/visualstudio-F9AB00?style=for-the-badge&logo=visualstudio&color=0000FF)](https://visualstudio.microsoft.com/)
-[![](https://img.shields.io/badge/spyder-F9AB00?style=for-the-badge&logo=spyder&color=FF0000)](https://www.spyder-ide.org/)
-
 [![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com)
 [![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) 
 [![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint) 
@@ -83,15 +78,16 @@ Below is a list of some of the skills that I've gained throughout my experience 
 [![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI%20BI&logoColor=yellow)](https://app.powerbi.com/home)
 [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/saikiran2351)
 
-These courses were influential in my theoretical understanding of machine learning, deep learning, and data science. Later, I began to work on projects ranging from __BFSI/FinTech__, __Healthcare__, __Retail__. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling machine learning problems. Thanks.🙂
-
 
 💻 *IDE's*:
  <p align="left">
-<img src="https://img.shields.io/badge/VS-Code-blue" alt="vscode" width="80" height="30"/> 
-<img src="https://img.shields.io/badge/Jupyter-orange" alt="Jupyter" width="70" height="30"/>
-<img src="https://img.shields.io/badge/Google%20colab-orange" alt="Google Colab" width="130" height="30"/>
-<img src="https://img.shields.io/badge/Spyder%20red" alt="Spyder" width="130" height="30"/>
+[![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com) 
+[![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com)
+[![](https://img.shields.io/badge/visualstudio-F9AB00?style=for-the-badge&logo=visualstudio&color=0000FF)](https://visualstudio.microsoft.com/)
+[![](https://img.shields.io/badge/spyder-F9AB00?style=for-the-badge&logo=spyder&color=FF0000)](https://www.spyder-ide.org/)
+
+These courses were influential in my theoretical understanding of machine learning, deep learning, and data science. Later, I began to work on projects ranging from __BFSI/FinTech__, __Healthcare__, __Retail__. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling machine learning problems. Thanks.🙂
+ 
 </p>
 
 <br />
