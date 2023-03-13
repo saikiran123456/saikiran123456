@@ -2,7 +2,7 @@
 
 ## Hi there <img width="28px" alt="Hi" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" />
 
-<h3 align="center">Myself Saikiran, A passionate data enthusiast  a Data Science Researcher!! love to work with data 📊. Love being a data detective to explore raw data to get helpful insights 📈 📊. I spend most of my time coding and building AIML products. </h3><br />
+<h3 align="center">Myself Saikiran, A passionate Data enthusiast & Data Science Researcher!! love to work with data 📊. Love being a data detective to explore raw data to get helpful insights 📈 📊. I spend most of my time coding and building Data Science products. </h3><br />
 
 <img align="right" alt="GIF" src="GIF/Data scientist2.gif" width="340" height="250" />
 
