@@ -43,7 +43,7 @@ Below is a list of some of the skills that I've gained throughout my experience 
 
 <img align="right" alt="GIF" src="GIF/stack.gif" width="380" height="280" />
 
-### **Tools**: 
+### **💻 Libraries & Tools 📊**: 
 
 [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
 [![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
@@ -79,7 +79,7 @@ Below is a list of some of the skills that I've gained throughout my experience 
 [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/saikiran2351)
 
 
-## 💻 *IDE's*:
+### 💻 *IDE's*:
 
 [![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com) 
 [![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com)
