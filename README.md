@@ -13,7 +13,7 @@
  
 - 👯 I write articles on **<a href= "https://saikirandasari41.medium.com/">Medium</a>** aiming to explain the concepts in layman terms.
 
-- 🥅 **2023 Goals:** 
+- 🥅 **Goals:** 
   - Practice LeetCodes
   - Learn about statistical concepts in-depth.
   - Learn end-to-end Data Science Workflow with model deployment and dockerization. 
