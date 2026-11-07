@@ -5,7 +5,7 @@
 
 <img align="right" alt="GIF" src="GIF/Data scientist2.gif" width="340" height="250" />
 
-- 🔭 Currently working at **<a href="https://aivariant.com/">NeoQuant Solutions</a>**.
+- 🔭 Currently working at **<a href="https://www.icicilombard.com/">ICICI Lombard</a>**.
 
 - 🌱 Passionate about Data Science and Machine Learning. "Learning Makes Me Happy" 
  
